@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/pinterest-web-scraping.git
+    git clone https://github.com/Sarika362/Pinterest-Web-Scraping.git
     cd pinterest-web-scraping
     ```
 
